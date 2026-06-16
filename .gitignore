@@ -1,2 +1,7 @@
 OldVersions/
 *.code-workspace
+
+*-backups
+*~*.lck
+*#auto_saved_files#
+*.history
